@@ -11,8 +11,6 @@ const TotalCost = ({ totalCosts, ItemsDisplay }) => {
                 <div>
                     <h2 id="pre_fee_cost_display" className="price">
                     </h2>
-                    <div
-                    </div>
                 </div>
             </div>
         </div>
