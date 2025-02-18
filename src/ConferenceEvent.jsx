@@ -143,9 +143,9 @@ const ConferenceEvent = () => {
                                             )}  
                                         </div>
                                     </div>
-                                ))}
-                            </div>
-                            <div className="total_cost">Total Cost: ${venueTotalCost}</div>
+                                    ))}
+                                </div>
+                                <div className="total_cost">Total Cost: ${venueTotalCost}</div>
                             </div>
 
                             {/*Necessary Add-ons*/}
